@@ -6,4 +6,4 @@ An example of parsing html into rss feed
 - node parse.js
 
 ## What will it do?
-It will look for all of html files in the current directory then parse it RSS feed.  RSS feed will be saved in /public directory
+It will look for all of html files in the current directory then parse it to RSS feed.  RSS feed will be saved in /public directory
