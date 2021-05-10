@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Paul's blog</title>
+        <link>http://localhost:3000</link>
+        <description>Welcome to my blog!</description>
+        <lastBuildDate>Mon, 10 May 2021 20:08:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Next.js using Feed for Node.js</generator>
+        <language>en</language>
+        <copyright>All rights reserved 2021, Paul</copyright>
+        <item>
+            <title><![CDATA[How to write a blog]]></title>
+            <pubDate>Sun, 28 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[you will learn how to write a blog cleanly]]></description>
+            <content:encoded><![CDATA[<h1> I'm the content here </h1>]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Parse a Website]]></title>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[A short description here]]></description>
+            <content:encoded><![CDATA[
+    <img src="test.jpg">
+
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Parse a Website]]></title>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[A short description here]]></description>
+            <content:encoded><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Parse a Website]]></title>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[A short description here]]></description>
+            <content:encoded><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Parse a Website]]></title>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[A short description here]]></description>
+            <content:encoded><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+        <item>
+            <title><![CDATA[How to Parse a Website]]></title>
+            <pubDate>Wed, 24 Mar 2021 07:00:00 GMT</pubDate>
+            <description><![CDATA[A short description here]]></description>
+            <content:encoded><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content:encoded>
+            <author>paul@sweeneyapps.com (Paul Sweeney)</author>
+        </item>
+    </channel>
+</rss>

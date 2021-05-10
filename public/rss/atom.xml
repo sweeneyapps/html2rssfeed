@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:3000</id>
+    <title>Paul's blog</title>
+    <updated>2021-05-10T20:08:34.797Z</updated>
+    <generator>Next.js using Feed for Node.js</generator>
+    <author>
+        <name>Paul Sweeney</name>
+        <email>paul@sweeneyapps.com</email>
+        <uri>https://twitter.com/vphreak</uri>
+    </author>
+    <link rel="alternate" href="http://localhost:3000"/>
+    <link rel="self" href="http://localhost:3000/rss/atom.xml"/>
+    <subtitle>Welcome to my blog!</subtitle>
+    <rights>All rights reserved 2021, Paul</rights>
+    <entry>
+        <title type="html"><![CDATA[How to write a blog]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[you will learn how to write a blog cleanly]]></summary>
+        <content type="html"><![CDATA[<h1> I'm the content here </h1>]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse a Website]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short description here]]></summary>
+        <content type="html"><![CDATA[
+    <img src="test.jpg">
+
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse a Website]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short description here]]></summary>
+        <content type="html"><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse a Website]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short description here]]></summary>
+        <content type="html"><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse a Website]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short description here]]></summary>
+        <content type="html"><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse a Website]]></title>
+        <id/>
+        <link/>
+        <updated>2021-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short description here]]></summary>
+        <content type="html"><![CDATA[
+    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs
+  ]]></content>
+        <author>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </author>
+        <contributor>
+            <name>Paul Sweeney</name>
+            <email>paul@sweeneyapps.com</email>
+            <uri>https://twitter.com/vphreak</uri>
+        </contributor>
+    </entry>
+</feed>

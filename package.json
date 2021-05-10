@@ -1,0 +1,23 @@
+{
+  "name": "html2rssfeed",
+  "version": "1.0.0",
+  "description": "Converting HTML to RSS feed",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweeneyapps/html2rssfeed.git"
+  },
+  "author": "Paul Sweeney Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweeneyapps/html2rssfeed/issues"
+  },
+  "homepage": "https://github.com/sweeneyapps/html2rssfeed#readme",
+  "dependencies": {
+    "feed": "^4.2.2",
+    "node-html-parser": "^3.2.0"
+  }
+}

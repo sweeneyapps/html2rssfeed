@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Paul's blog",
+    "home_page_url": "http://localhost:3000",
+    "feed_url": "http://localhost:3000/rss/feed.json",
+    "description": "Welcome to my blog!",
+    "author": {
+        "name": "Paul Sweeney",
+        "url": "https://twitter.com/vphreak"
+    },
+    "items": [
+        {
+            "content_html": "<h1> I'm the content here </h1>",
+            "title": "How to write a blog",
+            "summary": "you will learn how to write a blog cleanly",
+            "date_modified": "2021-03-28T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        },
+        {
+            "content_html": "\n    <img src=\"test.jpg\">\n\n    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs\n  ",
+            "title": "How to Parse a Website",
+            "summary": "A short description here",
+            "date_modified": "2021-03-24T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        },
+        {
+            "content_html": "\n    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs\n  ",
+            "title": "How to Parse a Website",
+            "summary": "A short description here",
+            "date_modified": "2021-03-24T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        },
+        {
+            "content_html": "\n    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs\n  ",
+            "title": "How to Parse a Website",
+            "summary": "A short description here",
+            "date_modified": "2021-03-24T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        },
+        {
+            "content_html": "\n    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs\n  ",
+            "title": "How to Parse a Website",
+            "summary": "A short description here",
+            "date_modified": "2021-03-24T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        },
+        {
+            "content_html": "\n    This is my first test webpage.  We are going to explore on how to use the html parser in nodejs\n  ",
+            "title": "How to Parse a Website",
+            "summary": "A short description here",
+            "date_modified": "2021-03-24T07:00:00.000Z",
+            "author": {
+                "name": "Paul Sweeney",
+                "url": "https://twitter.com/vphreak"
+            }
+        }
+    ]
+}
